@@ -39,6 +39,15 @@ Semoga deskripsi proyek ini memberikan gambaran yang jelas tentang apa proyek "B
 
 Cara Menggunakannya 
 1. Clone Repositori Secara Langsung
-2. Download File Zip 
+2. Download File Zip
+3. Jalankan File Index.html
+
+**Copyright © 2023 oleh ADE MULYANA**
+
+Seluruh konten dan materi dalam proyek "Black Hole," termasuk tetapi tidak terbatas pada teks, gambar, animasi, simulasi, dan kode sumber, dilindungi oleh hak cipta yang dimiliki oleh ADE MULYANA kecuali dinyatakan sebaliknya. Tidak diperbolehkan untuk menggandakan, mendistribusikan, atau menggunakan materi ini tanpa izin tertulis dari ADE MULYANA.
+
+Segala upaya telah dilakukan untuk mencantumkan sumber daya pihak ketiga yang digunakan dalam proyek ini dengan benar. Jika Anda memiliki pertanyaan atau permintaan izin terkait dengan materi yang ada dalam proyek ini, silakan hubungi PERSONAL.ADEMULYANA@GMAIL.COM.
+
+Proyek "Black Hole" adalah hasil kerja keras dari ADE MULYANA dan merupakan kontribusi kami dalam mendukung pendidikan dan pemahaman tentang fenomena lubang hitam. Kami berharap Anda menikmati pengalaman belajar yang kami tawarkan melalui proyek ini.
 
 
