@@ -37,3 +37,8 @@ Semoga deskripsi proyek ini memberikan gambaran yang jelas tentang apa proyek "B
 ![image](https://github.com/adyanamul/black-hole/assets/144979433/93a4c6a3-3798-4d4e-bc83-1e95d5398caa)
 
 
+Cara Menggunakannya 
+1. Clone Repositori Secara Langsung
+2. Download File Zip 
+
+
