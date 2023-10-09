@@ -28,7 +28,7 @@ Tujuan utama proyek ini adalah untuk menggabungkan unsur pendidikan dan hiburan 
 **Keluaran yang Diharapkan:**
 Situs web "Black Hole" yang fungsional dan interaktif yang menyediakan informasi edukatif tentang lubang hitam dan memungkinkan pengguna untuk menjelajahi konsep tersebut melalui simulasi dan aktivitas interaktif.
 
-Semoga deskripsi proyek ini memberikan gambaran yang jelas tentang apa yang ingin Anda capai dengan proyek "Black Hole" Anda menggunakan HTML, CSS, dan JavaScript. Jika Anda memiliki pertanyaan lebih lanjut atau membutuhkan bantuan lebih lanjut dalam mengembangkan proyek ini, jangan ragu untuk bertanya!
+Semoga deskripsi proyek ini memberikan gambaran yang jelas tentang apa proyek "Black Hole" menggunakan HTML, CSS, dan JavaScript.
 
 ![image](https://github.com/adyanamul/black-hole/assets/144979433/af23d512-f16a-4ecf-9dca-6f3cbebd215b)
 
